@@ -1,0 +1,8 @@
+april: 2
+california: 3
+christmas: 1
+march: 2
+november: 2
+polytechnic: 3
+thanksgiving: 1
+university: 3
